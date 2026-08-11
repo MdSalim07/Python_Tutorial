@@ -16,5 +16,11 @@
 # str = "I am studying python from Apna college"
 # print(str.count("Apna"))
 
-name = input("Enter your name: ")
-print("length of your name is :",len(name))
+# name = input("Enter your name: ")
+# print("length of your name is :",len(name))
+
+str = "i am studying $ python $ from Apna $ college"
+print(str.count("$"))
+
+
+
