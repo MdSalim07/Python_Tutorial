@@ -1,16 +1,16 @@
-# str1 = "Hello World"
-# str2 = 'Python is Fun'
-# str3 = """this is a multi line string"""
+str1 = "Hello World"
+str2 = 'Python is Fun'
+str3 = """this is a multi line string"""
 
+print(str1)
+print(str2)
+print(str3)
+
+# str1 = "This is a string .\n we are creating it in python."
 # print(str1)
-# print(str2)
-# print(str3)
 
-str1 = "This is a string .\n we are creating it in python."
-print(str1)
-
-str1 = "This is a string .\t we are creating it in python."
-print(str1)
+# str1 = "This is a string .\t we are creating it in python."
+# print(str1)
 
 # Concatenation of Strings
 
