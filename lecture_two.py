@@ -6,17 +6,17 @@
 # print(str2)
 # print(str3)
 
-# str1 = "This is a string .\n we are creating it in python."
-# print(str1)
+str1 = "This is a string .\n we are creating it in python."
+print(str1)
 
-# str1 = "This is a string .\t we are creating it in python."
-# print(str1)
+str1 = "This is a string .\t we are creating it in python."
+print(str1)
 
-Concatenation of Strings
+# Concatenation of Strings
 
-str1 = "Hello"
-str2 =" World"
-print(str1 + str2)
+# str1 = "Hello"
+# str2 =" World"
+# print(str1 + str2)
   
 
 
