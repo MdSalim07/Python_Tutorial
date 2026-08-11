@@ -10,5 +10,8 @@
 # str = "I am studying python from Apna college"
 # print(str.replace("Apna", "My"))
 
-str = "I am studying python from Apna college"
-print(str.find("Apna"))
+# str = "I am studying python from Apna college"
+# print(str.find("Apna"))
+
+str = "I am studying Apna python from Apna college"
+print(str.count("Apna"))
