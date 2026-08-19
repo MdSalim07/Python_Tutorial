@@ -19,23 +19,20 @@
 # print ("count ended")
 
 # print rivers from 100 to 1.
-count = 100
-while count >= 1:
-    print(count)
-    count -= 1
-print ("count ended")
+# count = 100
+# while count >= 1:
+#     print(count)
+#     count -= 1
+# print ("count ended")
+
+
+# print the multiplicatiion table of 3.
+n = 3
+i = 1
+while i <= 10:
+    print(3*i)
+    i += 1 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+# print the multiplicatiion rivers  table of 3.
