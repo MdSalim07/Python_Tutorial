@@ -12,12 +12,18 @@
 
 # printNumber from 1 to 100.
 
-count = 1 
-while count <= 100:
-    print(count)
-    count += 1
-print ("count ended")
+# count = 1 
+# while count <= 100:
+#     print(count)
+#     count += 1
+# print ("count ended")
 
+# print rivers from 100 to 1.
+count = 100
+while count >= 1:
+    print(count)
+    count -= 1
+print ("count ended")
 
 
 
