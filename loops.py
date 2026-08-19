@@ -36,14 +36,16 @@
 
 
 # print the multiplicatiion rivers  table of 3.
-n = 3
-i = 10
-while i >= 1:
-    print(3*i)
-    i -= 1
+# n = 3
+# i = 10
+# while i >= 1:
+#     print(3*i)
+#     i -= 1
 
 
-
-
-
-
+# User the input table.
+n = int (input ("Enter the number :"))
+i = 1
+while i <= 10:
+    print (n*i)
+    i += 1
