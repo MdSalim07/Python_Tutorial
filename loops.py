@@ -27,12 +27,23 @@
 
 
 # print the multiplicatiion table of 3.
-n = 3
-i = 1
-while i <= 10:
-    print(3*i)
-    i += 1 
+# n = 3
+# i = 1
+# while i <= 10:
+#     print(3*i)
+#     i += 1 
 
 
 
 # print the multiplicatiion rivers  table of 3.
+n = 3
+i = 10
+while i >= 1:
+    print(3*i)
+    i -= 1
+
+
+
+
+
+
